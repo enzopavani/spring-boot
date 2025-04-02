@@ -9,7 +9,7 @@ import com.enzo.project.entities.User;
 
 @RestController
 @RequestMapping(value = "/users")
-public class UserResources {
+public class UserResource {
 
 	@GetMapping
 	public ResponseEntity<User> findAll() {
