@@ -1,4 +1,4 @@
-package com.enzo.project.entities;
+package com.enzo.project.entities.enums;
 
 public enum OrderStatus {
 
